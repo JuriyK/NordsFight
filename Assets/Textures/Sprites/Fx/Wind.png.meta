@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 6e894ca985d14ee4ea1996664da5eebb
+timeCreated: 1450533403
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wind_3
+    21300002: Wind_4
+    21300004: Wind_5
+    21300006: Wind_6
+    21300008: Wind_7
+    21300010: Wind_8
+    21300012: Wind_0
+    21300014: Wind_1
+    21300016: Wind_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Wind_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 7
+        width: 76
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 5
+        width: 76
+        height: 124
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 74
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 5
+        width: 88
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 5
+        width: 118
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 5
+        width: 111
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 81
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 71
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wind_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 78
+        height: 90
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Sprite
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

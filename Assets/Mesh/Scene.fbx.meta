@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: ab8bc67f0b9e6c94fab4b3e37ff8d676
+timeCreated: 1450881892
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arc
+    100002: 'Arena '
+    100004: bridge
+    100006: Camera
+    100008: Directional Light
+    100010: Ground
+    100012: GroundConcreet
+    100014: Illume
+    100016: Post
+    100018: //RootNode
+    100020: Texture Group
+    100022: Tube1
+    100024: Tube3
+    100026: Vaze
+    400000: Arc
+    400002: 'Arena '
+    400004: bridge
+    400006: Camera
+    400008: Directional Light
+    400010: Ground
+    400012: GroundConcreet
+    400014: Illume
+    400016: Post
+    400018: //RootNode
+    400020: Texture Group
+    400022: Tube1
+    400024: Tube3
+    400026: Vaze
+    2300000: Arc
+    2300002: 'Arena '
+    2300004: bridge
+    2300006: Ground
+    2300008: GroundConcreet
+    2300010: Illume
+    2300012: Post
+    2300014: Tube1
+    2300016: Tube3
+    2300018: Vaze
+    3300000: Arc
+    3300002: 'Arena '
+    3300004: bridge
+    3300006: Ground
+    3300008: GroundConcreet
+    3300010: Illume
+    3300012: Post
+    3300014: Tube1
+    3300016: Tube3
+    3300018: Vaze
+    4300000: Arc
+    4300002: 'Arena '
+    4300004: Post
+    4300006: Tube3
+    4300008: Tube1
+    4300010: bridge
+    4300012: Vaze
+    4300014: Ground
+    4300016: GroundConcreet
+    4300018: Illume
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

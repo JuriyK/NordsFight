@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 878a50336966d294287ab88c1d33119e
+timeCreated: 1445971656
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_FX_Dust_0007_0
+    21300002: Sprite_FX_Dust_0007_1
+    21300004: Sprite_FX_Dust_0007_2
+    21300006: Sprite_FX_Dust_0007_3
+    21300008: Sprite_FX_Dust_0007_4
+    21300010: Sprite_FX_Dust_0007_5
+    21300012: Sprite_FX_Dust_0007_6
+    21300014: Sprite_FX_Dust_0007_7
+    21300016: Sprite_FX_Dust_0007_8
+    21300018: Sprite_FX_Dust_0007_9
+    21300020: Sprite_FX_Dust_0007_10
+    21300022: Sprite_FX_Dust_0007_11
+    21300024: Sprite_FX_Dust_0007_12
+    21300026: Sprite_FX_Dust_0007_13
+    21300028: Sprite_FX_Dust_0007_14
+    21300030: Sprite_FX_Dust_0007_15
+    21300032: Sprite_FX_Dust_0007_16
+    21300034: Sprite_FX_Dust_0007_17
+    21300036: Sprite_FX_Dust_0007_18
+    21300038: Sprite_FX_Dust_0007_19
+    21300040: Sprite_FX_Dust_0007_20
+    21300042: Sprite_FX_Dust_0007_21
+    21300044: Sprite_FX_Dust_0007_22
+    21300046: Sprite_FX_Dust_0007_23
+    21300048: Sprite_FX_Dust_0007_24
+    21300050: Sprite_FX_Dust_0007_25
+    21300052: Sprite_FX_Dust_0007_26
+    21300054: Sprite_FX_Dust_0007_27
+    21300056: Sprite_FX_Dust_0007_28
+    21300058: Sprite_FX_Dust_0007_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Sprite_FX_Dust_0007_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 83
+        height: 193
+      alignment: 9
+      pivot: {x: .491843522, y: .306525975}
+      border: {x: 0, y: 28, z: 1, w: 0}
+    - name: Sprite_FX_Dust_0007_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 245
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 6, z: 13, w: 0}
+    - name: Sprite_FX_Dust_0007_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 222
+        width: 168
+        height: 222
+      alignment: 9
+      pivot: {x: .585341156, y: .423675001}
+      border: {x: 0, y: 0, z: 5, w: 0}
+    - name: Sprite_FX_Dust_0007_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 213
+        width: 168
+        height: 222
+      alignment: 9
+      pivot: {x: .55430764, y: .335608006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 205
+        width: 191
+        height: 226
+      alignment: 9
+      pivot: {x: .468966544, y: .359092504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_5
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 183
+        width: 199
+        height: 222
+      alignment: 9
+      pivot: {x: .460701346, y: .42367512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 165
+        height: 240
+      alignment: 9
+      pivot: {x: .445550829, y: .615074396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 161
+        height: 243
+      alignment: 9
+      pivot: {x: .5, y: .591183901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 18
+        width: 139
+        height: 203
+      alignment: 9
+      pivot: {x: .55626148, y: .589889228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1
+        width: 114
+        height: 202
+      alignment: 9
+      pivot: {x: .393425107, y: .575104237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 13
+        width: 117
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Dust_0007_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 4
+        width: 133
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Sprite
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

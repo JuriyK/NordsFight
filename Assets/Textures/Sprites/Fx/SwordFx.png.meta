@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: f2f0596121e7cf84a80c55d94a9f92dc
+timeCreated: 1450353895
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SwordFx_0
+    21300002: SwordFx_1
+    21300004: SwordFx_2
+    21300006: SwordFx_3
+    21300008: SwordFx_4
+    21300010: SwordFx_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: SwordFx_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 91
+        height: 20
+      alignment: 9
+      pivot: {x: .00362967397, y: .132339552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SwordFx_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4
+        width: 102
+        height: 65
+      alignment: 9
+      pivot: {x: -.0046318653, y: -.000987867243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SwordFx_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 9
+        width: 111
+        height: 63
+      alignment: 9
+      pivot: {x: .00789346825, y: .0164556056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SwordFx_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 11
+        width: 124
+        height: 71
+      alignment: 9
+      pivot: {x: .00865665544, y: .0117589524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SwordFx_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 11
+        width: 141
+        height: 70
+      alignment: 9
+      pivot: {x: .0082960194, y: -.0252287872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SwordFx_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 10
+        width: 142
+        height: 86
+      alignment: 9
+      pivot: {x: -.00303628412, y: .0114148492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Sprite
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 429559174a9a896458a7d56d8976a6e7
+timeCreated: 1451909103
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_FX_Water_0003_0
+    21300002: Sprite_FX_Water_0003_1
+    21300004: Sprite_FX_Water_0003_2
+    21300006: Sprite_FX_Water_0003_3
+    21300008: Sprite_FX_Water_0003_4
+    21300010: Sprite_FX_Water_0003_5
+    21300012: Sprite_FX_Water_0003_6
+    21300014: Sprite_FX_Water_0003_7
+    21300016: Sprite_FX_Water_0003_8
+    21300018: Sprite_FX_Water_0003_9
+    21300020: Sprite_FX_Water_0003_10
+    21300022: Sprite_FX_Water_0003_11
+    21300024: Sprite_FX_Water_0003_12
+    21300026: Sprite_FX_Water_0003_13
+    21300028: Sprite_FX_Water_0003_14
+    21300030: Sprite_FX_Water_0003_15
+    21300032: Sprite_FX_Water_0003_16
+    21300034: Sprite_FX_Water_0003_17
+    21300036: Sprite_FX_Water_0003_18
+    21300038: Sprite_FX_Water_0003_19
+    21300040: Sprite_FX_Water_0003_20
+    21300042: Sprite_FX_Water_0003_21
+    21300044: Sprite_FX_Water_0003_22
+    21300046: Sprite_FX_Water_0003_23
+    21300048: Sprite_FX_Water_0003_24
+    21300050: Sprite_FX_Water_0003_25
+    21300052: Sprite_FX_Water_0003_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite_FX_Water_0003_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 126
+        width: 78
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 129
+        width: 115
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 127
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 126
+        height: 90
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 127
+        width: 124
+        height: 98
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 127
+        height: 85
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 23
+        width: 123
+        height: 78
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 22
+        width: 127
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 22
+        width: 121
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite_FX_Water_0003_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 22
+        width: 121
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Sprite
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 074c25416bd414947b0a50e82e33362b
+timeCreated: 1443686600
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Orc_Defence:_l_weap
+    100004: Orc_Defence:Ankle_L
+    100006: Orc_Defence:Ankle_R
+    100008: Orc_Defence:BackA_M
+    100010: Orc_Defence:BackB_M
+    100012: Orc_Defence:body
+    100014: Orc_Defence:Chest_M
+    100016: Orc_Defence:Elbow_L
+    100018: Orc_Defence:Elbow_R
+    100020: Orc_Defence:Head_M
+    100022: Orc_Defence:Hip_L
+    100024: Orc_Defence:Hip_R
+    100026: Orc_Defence:joint1
+    100028: Orc_Defence:joint2
+    100030: Orc_Defence:joint3
+    100032: Orc_Defence:joint4
+    100034: Orc_Defence:joint5
+    100036: Orc_Defence:Knee_L
+    100038: Orc_Defence:Knee_R
+    100040: Orc_Defence:MiddleToe1_L
+    100042: Orc_Defence:MiddleToe1_R
+    100044: Orc_Defence:Neck_M
+    100046: Orc_Defence:r_weap
+    100048: Orc_Defence:Root_M
+    100050: Orc_Defence:Scapula_L
+    100052: Orc_Defence:Scapula_R
+    100054: Orc_Defence:Shoulder_L
+    100056: Orc_Defence:Shoulder_R
+    100058: Orc_Defence:Wrist_L
+    100060: Orc_Defence:Wrist_R
+    400000: //RootNode
+    400002: Orc_Defence:_l_weap
+    400004: Orc_Defence:Ankle_L
+    400006: Orc_Defence:Ankle_R
+    400008: Orc_Defence:BackA_M
+    400010: Orc_Defence:BackB_M
+    400012: Orc_Defence:body
+    400014: Orc_Defence:Chest_M
+    400016: Orc_Defence:Elbow_L
+    400018: Orc_Defence:Elbow_R
+    400020: Orc_Defence:Head_M
+    400022: Orc_Defence:Hip_L
+    400024: Orc_Defence:Hip_R
+    400026: Orc_Defence:joint1
+    400028: Orc_Defence:joint2
+    400030: Orc_Defence:joint3
+    400032: Orc_Defence:joint4
+    400034: Orc_Defence:joint5
+    400036: Orc_Defence:Knee_L
+    400038: Orc_Defence:Knee_R
+    400040: Orc_Defence:MiddleToe1_L
+    400042: Orc_Defence:MiddleToe1_R
+    400044: Orc_Defence:Neck_M
+    400046: Orc_Defence:r_weap
+    400048: Orc_Defence:Root_M
+    400050: Orc_Defence:Scapula_L
+    400052: Orc_Defence:Scapula_R
+    400054: Orc_Defence:Shoulder_L
+    400056: Orc_Defence:Shoulder_R
+    400058: Orc_Defence:Wrist_L
+    400060: Orc_Defence:Wrist_R
+    4300000: Orc_Defence:body
+    7400000: Idle
+    7400002: Attack
+    7400004: Hit
+    7400006: Death
+    7400008: Attack2
+    7400010: Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Orc_Defence:body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Orc_Defence:_l_weap
+        weight: 1
+      - path: Orc_Defence:body
+        weight: 1
+      - path: Orc_Defence:r_weap
+        weight: 1
+      - path: Orc_Defence:Root_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:Head_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1/Orc_Defence:joint2
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3/Orc_Defence:joint4
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L/Orc_Defence:Wrist_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R/Orc_Defence:Wrist_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L/Orc_Defence:MiddleToe1_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R/Orc_Defence:MiddleToe1_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Orc_Defence:_l_weap
+        weight: 1
+      - path: Orc_Defence:body
+        weight: 1
+      - path: Orc_Defence:r_weap
+        weight: 1
+      - path: Orc_Defence:Root_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:Head_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1/Orc_Defence:joint2
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3/Orc_Defence:joint4
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L/Orc_Defence:Wrist_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R/Orc_Defence:Wrist_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L/Orc_Defence:MiddleToe1_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R/Orc_Defence:MiddleToe1_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 78
+      lastFrame: 116
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Orc_Defence:_l_weap
+        weight: 1
+      - path: Orc_Defence:body
+        weight: 1
+      - path: Orc_Defence:r_weap
+        weight: 1
+      - path: Orc_Defence:Root_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:Head_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1/Orc_Defence:joint2
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3/Orc_Defence:joint4
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L/Orc_Defence:Wrist_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R/Orc_Defence:Wrist_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L/Orc_Defence:MiddleToe1_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R/Orc_Defence:MiddleToe1_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 117
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Orc_Defence:_l_weap
+        weight: 1
+      - path: Orc_Defence:body
+        weight: 1
+      - path: Orc_Defence:r_weap
+        weight: 1
+      - path: Orc_Defence:Root_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:Head_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1/Orc_Defence:joint2
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3/Orc_Defence:joint4
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L/Orc_Defence:Wrist_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R/Orc_Defence:Wrist_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L/Orc_Defence:MiddleToe1_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R/Orc_Defence:MiddleToe1_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack2
+      takeName: Take 001
+      firstFrame: 158
+      lastFrame: 202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Orc_Defence:_l_weap
+        weight: 1
+      - path: Orc_Defence:body
+        weight: 1
+      - path: Orc_Defence:r_weap
+        weight: 1
+      - path: Orc_Defence:Root_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:Head_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1/Orc_Defence:joint2
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3/Orc_Defence:joint4
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L/Orc_Defence:Wrist_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R/Orc_Defence:Wrist_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L/Orc_Defence:MiddleToe1_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R/Orc_Defence:MiddleToe1_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 234
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Orc_Defence:_l_weap
+        weight: 1
+      - path: Orc_Defence:body
+        weight: 1
+      - path: Orc_Defence:r_weap
+        weight: 1
+      - path: Orc_Defence:Root_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:Head_M
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint1/Orc_Defence:joint2
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Neck_M/Orc_Defence:joint3/Orc_Defence:joint4
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_L/Orc_Defence:Shoulder_L/Orc_Defence:Elbow_L/Orc_Defence:Wrist_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:BackA_M/Orc_Defence:BackB_M/Orc_Defence:Chest_M/Orc_Defence:Scapula_R/Orc_Defence:Shoulder_R/Orc_Defence:Elbow_R/Orc_Defence:Wrist_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_L/Orc_Defence:Knee_L/Orc_Defence:Ankle_L/Orc_Defence:MiddleToe1_L
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:Hip_R/Orc_Defence:Knee_R/Orc_Defence:Ankle_R/Orc_Defence:MiddleToe1_R
+        weight: 1
+      - path: Orc_Defence:Root_M/Orc_Defence:joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
